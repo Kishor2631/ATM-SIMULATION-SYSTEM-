@@ -1,6 +1,5 @@
 # ATM-SIMULATION-SYSTEM-
-The Java-based ATM Simulation System mimics real ATM operations. It lets users access multiple linked accounts without a card and supports balance inquiry, withdrawal, deposit, fund transfer, and fingerprint verification through a simple console or GUI interface.
-package com.smartatm.backend;
+The Java-based ATM Simulation System.This is a high-fidelity frontend simulation of a next-generation ATM system that eliminates the need for physical debit cards. Instead of inserting a card, users authenticate via credentials and a simulated biometric fingerprint scan. The application acts as a "Universal Banking Hub," allowing a single user to manage accounts across multiple different banks (e.g., SBI, HDFC, ICICI) in one unified dashboard..
 
 import java.util.*;
 
